@@ -17,6 +17,6 @@ kfusion/src/opencl/* -> Optimized kernels and host
 
 kfusion/include/constant_parameters.h -> Changed a constant
 
-kfusion/benchmark.cpp -> Changed to fit optimizations
+kfusion/src/benchmark.cpp -> Changed to fit optimizations
 
 
