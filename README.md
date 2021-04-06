@@ -1,5 +1,5 @@
 ## KFusion-Opencl
-This repo represents an optimized version of OpenCL KFusion implementation as appeard in SLAMBench open-source project.
+This repo represents an optimized version of OpenCL KFusion implementation as appeared in SLAMBench open-source project.
 
 The default OpenCL implementation of SLAMBench running at an NVidia GeForce GTX 770 and 'lr kt2' loop tajectory ran at 203 frames per second. 
 
