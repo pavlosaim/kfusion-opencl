@@ -3,9 +3,9 @@ This repo represents an optimized version of OpenCL KFusion (A Visual SLAM algor
 
 The evaluation was done on an NVidia GeForce GTX 770 GPU, running the ICL-NUIM data set "lr kt2" loop.
 
-The default KFusion of SLAMBench ran at 203 frames per second.
+The default KFusion of SLAMBench ran at 203 frames per second and 18.118m ATE.
 
-This optimized version ran at 634 frames per second. 
+This optimized version ran at 634 frames per second and 19.38m ATE. 
 
 ### Info
 You will need SLAMBench to make and run the code. Head to SLAMBench repo for more information on how to install it. 
