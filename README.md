@@ -12,12 +12,14 @@ You will need SLAMBench to make and run the code. Head to SLAMBench repo for mor
 
 https://github.com/pamela-project/slambench1
 
-We also used the living room trajectory as input.
+We also used the living room trajectory as input. It an be installed as follows:
 
-<code><pre>mkdir living_room_traj2_loop
+<code><pre>
+mkdir living_room_traj2_loop
 cd living_room_traj2_loop
 wget http://www.doc.ic.ac.uk/~ahanda/living_room_traj2_loop.tgz
-tar xzf living_room_traj2_loop.tgz</code></pre>
+tar xzf living_room_traj2_loop.tgz
+</code></pre>
 
 Use "run_slam" script to run this version of opencl implementation at slambench.
 
