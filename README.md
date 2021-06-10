@@ -26,6 +26,7 @@ Use "run_slam" script to run this version of opencl implementation at slambench.
 kfusion/src/opencl/* -> Optimized kernels and host
 
 kfusion/include/constant_parameters.h -> Changed a constant
+kfusion/include/commons.h -> changed interp()
 
 kfusion/src/benchmark.cpp -> Changed to fit optimizations
 
